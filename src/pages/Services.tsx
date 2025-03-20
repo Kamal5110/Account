@@ -10,7 +10,7 @@ import ProcessBreakdown from '@/components/ProcessBreakdown';
 import Resources from '@/components/Resources';
 import { Toaster } from '@/components/ui/toaster';
 
-const Index = () => {
+const ServicesPage = () => {
   useEffect(() => {
     // Reveal animation for elements when they enter the viewport
     const revealElements = () => {
@@ -55,4 +55,4 @@ const Index = () => {
   );
 };
 
-export default Index;
+export default ServicesPage;
