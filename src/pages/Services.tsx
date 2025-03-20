@@ -12,7 +12,7 @@ const ServicesPage = () => {
       <Navbar />
       <main className="flex-grow pt-24">
         <div className="container mx-auto px-4 py-12">
-          <h1 className="text-3xl md:text-4xl font-bold mb-8">Contact Us</h1>
+          <h1 className="text-3xl md:text-4xl font-bold mb-8">Services</h1>
           <Contact />
         </div>
       </main>
