@@ -5,7 +5,7 @@ const AccountingSoftware = () => {
   const softwareList = [
     {
       name: "Zoho Books",
-      logo: "/lovable-uploads/b5a864c5-5950-4b42-be96-de0c5ff6884d.png",
+      logo: "/lovable-uploads/zoho.png",
       description: "Comprehensive online accounting software for small and medium businesses"
     },
     {
